@@ -5,6 +5,11 @@ open-close-mask.jsx
 
 This is a AE script to open and close several masks at once. If you want more control over mask check out [Shapes and Masks](http://aescripts.com/shapes-and-masks/) by [Michel Pensas](http://aescripts.com/authors/m-p/michel-pensas/)   
 
+## Usage  
+- Select one or several masks on one or several layers  
+- decide if the masks should be closed or open with the checkbox  
+- hit the button  
+
 ### Hint  
 Hold the alt key while clicking and the script will ignore the settings and always close the mask.
 
